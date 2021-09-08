@@ -1,4 +1,5 @@
 # MMRM in Pharmacogenomics
+Please cite the following work. 
 
 ## A Functional HTR1A Polymorphism, rs6295, Predicts Clinical Response to Lurasidone in Acutely Psychotic Patients with Schizophrenia 
 
@@ -6,7 +7,7 @@
 
 ### 1 Department of Psychiatry and Behavioral Sciences, Northwestern Feinberg School of Medicine, Chicago IL, 60611, USA; 2 Schizophrenia project, Tokyo Metropolitan Institute of Medical Sciences, Tokyo, 156-8506, Japan; 3 These authors contributed equally to the work.
 
-### This work was published in The Pharmacogenomics Journal 
+### This work was published in The Pharmacogenomics Journal 2020 Apr;20(2):260-270. doi: 10.1038/s41397-019-0101-5. 
 
 
 #### Table 1. Demographic and Clinical characteristics of GWAS sample (n = 436) from three clinical trials of lurasidone in schizophrenic patients with European or African ancestry. 
